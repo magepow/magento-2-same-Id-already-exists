@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- /**
+ * @Author: nguyen
+ * @Date:   2020-07-17 18:55:34
+ * @Last Modified by:   nguyen
+ * @Last Modified time: 2020-07-17 18:55:34
+ */ -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Eav\Model\Entity\Collection\AbstractCollection">
+        <plugin name="magepow_prevent_duplicate_entry_item" type="Magepow\SameIDAlreadyExists\Plugin\Framework\Data\Collection" sortOrder="89"/>
+    </type>
+</config>
