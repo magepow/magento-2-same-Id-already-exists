@@ -1,6 +1,6 @@
 {
   "name": "magepow/sameidalreadyexists",
-  "description": "Magento 2 SameIDAlreadyExists prevent duplicate entry_id",
+  "description": "Magento 2 SameIDAlreadyExists prevent duplicate entity_id",
   "require": {
     "magepow/core": "^1.0.0"
   },
