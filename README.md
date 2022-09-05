@@ -14,6 +14,9 @@ Item (Magento\Customer\Model\Customer\Interceptor) with the same ID "X" already 
 The error can cause when you migration database from Magento 1 to Magento 2 or something else. The error cause exist duplicate entity_id in database. You can find and fix it with command or install SameIDAlreadyExists to ignore it. if you want to fix the issue duplicate in your database you can use extension here to detect it [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker)
 
 ## Install Magento 2 SameIDAlreadyExists
+[![Latest Stable Version](https://poser.pugx.org/magepow/sameidalreadyexists/v/stable)](https://packagist.org/packages/magepow/sameidalreadyexists)
+[![Total Downloads](https://poser.pugx.org/magepow/sameidalreadyexists/downloads)](https://packagist.org/packages/magepow/sameidalreadyexists)
+[![Daily Downloads](https://poser.pugx.org/magepow/sameidalreadyexists/d/daily)](https://packagist.org/packages/magepow/sameidalreadyexists)
 ### Install via composer (recommend)
 Run the following commands in Magento 2 root folder:
 ```
