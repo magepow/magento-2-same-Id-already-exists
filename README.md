@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 SameIDAlreadyExists (with the same ID "X" already exists)
 Sometime you can get error with in log var/log/debug.log or var/log/system.log as below:
 ```
